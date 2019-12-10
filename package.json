@@ -1,0 +1,19 @@
+{
+  "name": "hoot",
+  "version": "1.0.0",
+  "description": "A mobile solution for Hoot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ww1173/Hoot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ww1173/Hoot/issues"
+  },
+  "homepage": "https://github.com/ww1173/Hoot#readme"
+}
